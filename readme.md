@@ -43,6 +43,7 @@ Da bi se projekat pokrenuo, potrebno je imati sledeće alate:
     Link do preuzimanja API-ja
 
 ## Struktura projekta
+```
 /naziv-projekta
 │
 ├── /node_modules/            # Folder sa instaliranim npm paketima
@@ -56,7 +57,7 @@ Da bi se projekat pokrenuo, potrebno je imati sledeće alate:
 ├── package.json              # Informacije o projektu
 ├── README.md                 
 └── .env                      # Promenljiva okruženja ( Kasnije tek implementacija )
-
+```
 ## Upotreba API-a
 
 U samom kodu API-a se nalaze razne funkcije preko kojih možemo doći do nekog segmenta u bazi podaka.
